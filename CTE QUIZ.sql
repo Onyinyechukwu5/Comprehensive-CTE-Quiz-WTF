@@ -83,12 +83,10 @@ then runs the main query using that stored result, instead of re-planning or re-
 -- 6. Write a recursive CTE that generates numbers from 1 to 10.
 
 WITH RECURSIVE numbers AS (
-    -- Anchor member: start at 1
     SELECT 1 AS num
 
     UNION ALL
-
-    -- Recursive member: increment by 1
+    
     SELECT num + 1
     FROM numbers
     WHERE num < 10
@@ -190,3 +188,4 @@ SELECT
     total_revenue
 FROM category_revenue
 ORDER BY total_revenue DESC;
+
