@@ -21,7 +21,7 @@ Through this exercise, I explored **basic CTEs, chained CTEs, recursive CTEs, wi
 10. Write a chained CTE query that calculates revenue per film category
     
 ## Answers
-<a href = https://github.com/Onyinyechukwu5/Comprehensive-CTE-Quiz-WTF/blob/main/CTE%20QUIZ.sql> Answers < a/>
+<a href = https://github.com/Onyinyechukwu5/Comprehensive-CTE-Quiz-WTF/blob/main/CTE%20QUIZ.sql > Answers <a/>
 ### Key analytical tasks covered include:
 
 * **Revenue analysis** using aggregation (`SUM`) on the payment table
