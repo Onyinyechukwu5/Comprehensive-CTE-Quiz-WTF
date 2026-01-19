@@ -63,8 +63,3 @@ This project serves as a reusable reference for:
 * Business intelligence workflows
 * PostgreSQL performance discussions
 
-
-
-
-
-<a href= https://github.com/Onyinyechukwu5/Comprehensive-CTE-Quiz-WTF/blob/main/CTE%20QUIZ.sql>Answers</a>
